@@ -4,7 +4,7 @@
 Institute of Smart & Sustainable Living (ISSL)  
 Universiti Teknologi PETRONAS (UTP), Malaysia  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-lightgrey?logo=google-scholar)]([#]) [![ResearchGate](https://img.shields.io/badge/ResearchGate-darkgreen?logo=researchgate)](#) [![IEEE](https://img.shields.io/badge/IEEE-blue?logo=ieee)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/mmhasanbd) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-lightgrey?logo=google-scholar)](https://scholar.google.com/citations?user=BYXDWy8AAAAJ&hl=en) [![ResearchGate](https://img.shields.io/badge/ResearchGate-darkgreen?logo=researchgate)](https://www.researchgate.net/profile/Md-Mahmudul-Hasan-71) [![IEEE](https://img.shields.io/badge/IEEE-blue?logo=ieee)](#)
 
 ---
 
@@ -64,11 +64,10 @@ Results-driven research scientist with 6+ years of experience in power electroni
 
 ### 👨‍💻 Let's Connect
 - 📧 **Email:** [your.email@domain.com](mailto:your.email@domain.com)  
-- 💼 **LinkedIn:** [LinkedIn Profile](#)  
-- 📚 **Google Scholar:** [[Google Scholar Profile](https://scholar.google.com/citations?user=BYXDWy8AAAAJ&hl=en)](#)  
-- 🔬 **ResearchGate:** [ResearchGate Profile](#)
+- 💼 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/mmhasanbd)  
+- 📚 **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=BYXDWy8AAAAJ&hl=en)  
+- 🔬 **ResearchGate:** [ResearchGate Profile](https://www.researchgate.net/profile/Md-Mahmudul-Hasan-71)  
 
 ---
 
 *Passionate about innovation and sustainability. Let's collaborate to build smarter energy solutions!*
-
