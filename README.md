@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🔭 I’m currently working on battery modelling, State Estimation, Machine Learning 
 <!--
 **mmhasanbd/mmhasanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
