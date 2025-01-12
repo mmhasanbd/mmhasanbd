@@ -4,7 +4,7 @@
 Institute of Smart & Sustainable Living (ISSL)  
 Universiti Teknologi PETRONAS (UTP), Malaysia  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-lightgrey?logo=google-scholar)](#) [![ResearchGate](https://img.shields.io/badge/ResearchGate-darkgreen?logo=researchgate)](#) [![IEEE](https://img.shields.io/badge/IEEE-blue?logo=ieee)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-lightgrey?logo=google-scholar)]([#](https://scholar.google.com/citations?user=BYXDWy8AAAAJ&hl=en)) [![ResearchGate](https://img.shields.io/badge/ResearchGate-darkgreen?logo=researchgate)](#) [![IEEE](https://img.shields.io/badge/IEEE-blue?logo=ieee)](#)
 
 ---
 
