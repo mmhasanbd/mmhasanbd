@@ -1,5 +1,14 @@
-## Hi there 👋
-🔭 I’m currently working on battery modelling, State Estimation, Machine Learning 
+## Gretings from Engr. Md Mahmudul Hasan 👋
+Completed M.Sc (UTP, EEE, 2024) and B.Sc (RUET, EEE, 2021)
+- 🔭 I’m currently working on Battery Modeling, Parameter Identification, State Estimation, Machine Learning, and Optimization  
+- 🌱 I’m currently learning machine learing, and optimization
+- 👯 I’m looking to collaborate on Battery Managment System 
+- 🤔 I’m looking for help with LSTM, BPNN 
+- 💬 Ask me about 
+- 📫 How to reach me: md.mahmudul.ruet@gmail.com 
+- 😄 Pronouns: Hasan 
+- ⚡ Fun fact: ...
+
 <!--
 **mmhasanbd/mmhasanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
